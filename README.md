@@ -3,7 +3,6 @@ A simple news website project.
 Node.js project using express, ejs where we fetch the news data from news api.
 There are a search bar on the top of the website and a category section on the top right corner where we can find the desires news related to our interests.
 
-<img src="https://github.com/RahulNimkande/News-website/blob/main/Screenshot%20(192).png?raw=true" alt="GitHub Logo" style="max-width: 100%;">
 
 <a href="https://pure-thicket-19921.herokuapp.com/">Have a look on website upload on heroku</a>
 
